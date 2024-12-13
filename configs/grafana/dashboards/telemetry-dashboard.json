@@ -169,7 +169,7 @@
         },
         "highlighterEnabled": true,
         "panZoomEnabled": true,
-        "panelConfig": "https://raw.githubusercontent.com/srl-labs/srl-telemetry-lab/refs/heads/flow_panel/configs/grafana/flow_panels/st_topopanel.yml",
+        "panelConfig": "https://raw.githubusercontent.com/nagayon-935/srl-telemetry-lab/refs/heads/main/configs/grafana/flow_panels/st_topopanel.yml",
         "siteConfig": "https://raw.githubusercontent.com/srl-labs/srl-telemetry-lab/refs/heads/flow_panel/configs/grafana/flow_panels/siteconfig.yml",
         "svg": "https://raw.githubusercontent.com/srl-labs/srl-telemetry-lab/refs/heads/flow_panel/configs/grafana/flow_panels/topology.svg",
         "testDataEnabled": false,
